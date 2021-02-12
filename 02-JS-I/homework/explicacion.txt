@@ -1,0 +1,16 @@
+Explicación a un niño de 12 años
+Variables
+Si estas armando algo, por ejemplo un carrito, una variable sería un espacio (una caja, una bolsa) en donde
+vas a guardar cosas para poder usarlas cuando las necesites en lo que estas construyendo
+Strings
+Serían palabras o notas que vas agregando a lo que estas construyendo, esas notas también las podés juntar
+entre sí o cambiarlas para que te sirvan de guía o sean parte de lo que construís
+Funciones (argumentos, return)
+Cuando construyas tu carrito, vas a querer agregarle un montón de cosas que pueda hacer, acelerar, frenar,
+prender las luces, las funciones serian perillas o botones con números para controlar todo eso
+Declaraciones if
+Cuando, apretas el pedal del acelerador, no podés tocar el freno, vamos a poner controles para hacer una
+cosa o la otra, no las dos a la vez
+Valores booleanos (true, false)
+Para cuidar el carrito, le ponemos unos controles para que no corra muy rápido, cunado llegue a cierta
+velocidad se corta la bateria
